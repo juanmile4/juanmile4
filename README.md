@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jimmie Valverde</h1>
+<h1 align="center">Hola  👋, soy  Jimmie Valverde</h1>
 <h3 align="center">Aficionado en IA,ML,DL,RV,RA,etc.Creador de contenido del Canal de youtube Emecatronicos</h3>
 
 - 🔭 Actualmente estoy trabajando en **RPA(Robotic Process Automation)**
